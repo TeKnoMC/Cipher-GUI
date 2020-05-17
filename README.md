@@ -3,6 +3,7 @@ This project aims to provide an interface allowing for mathematical analysis of 
 
 Todo:
 - Design basic layout:
+    - ~~Initial divider layout in grid~~
     - Input/output boxes
     - Menu for description tools (bottom right quarter)
 - Port python scripts for description tools to JavaScript and link to GUI

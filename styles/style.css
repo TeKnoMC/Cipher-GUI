@@ -1,0 +1,47 @@
+/* Initial setup */
+
+* {
+    margin: 0;
+}
+
+html {
+    transform-box: border-box;
+    font-family: "Raleway", sans-serif;
+}
+
+/* End initial setup */
+
+.grid {
+    display: grid;
+    grid-template: 1fr 14fr 14fr / repeat(2, 1fr);
+    width: 100vw;
+    height: 100vh;
+}
+
+#top-bar {
+    grid-area: 1 / 1 / span 1 / span 2;
+    text-align: center;
+    padding: 10px;
+    background-color: #000;
+}
+
+.title {
+    font-size: 32px;
+    color: #FFF;
+}
+
+#input {
+    background-color: #DDD;
+}
+
+#output {
+    background-color: #AAA;
+}
+
+#transform-tools {
+    background-color: #777;
+}
+
+#data-tools {
+    background-color: #444;
+}
