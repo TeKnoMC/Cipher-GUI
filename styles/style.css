@@ -34,6 +34,19 @@ html {
     background-color: #DDD;
 }
 
+#input textarea {
+    font-size: 16px;
+    width: 100%;
+    height: 100%;
+
+    box-sizing: border-box;
+    padding: 12px 20px;
+
+    outline: none;
+    resize: none;
+    overflow: auto;
+}
+
 #output {
     background-color: #AAA;
 }
