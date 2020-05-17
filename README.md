@@ -1,5 +1,5 @@
 # Cipher Helper
-This project aims to provide a simplistic interface allowing for mathematical analysis of simple ciphertexts encrypted with historic "pen and paper" ciphers, such as substitutions, transpositions, and polyalphabetic ciphers.
+This project aims to provide an interface allowing for mathematical analysis of simple ciphertexts encrypted with historic "pen and paper" ciphers, such as substitutions, transpositions, and polyalphabetic ciphers.
 
 Todo:
 - Design basic layout:
